@@ -4,11 +4,12 @@
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/340e6a2d-0a54-447c-85f6-9c30ddf9885c)  
 
 ## Решение:   
-Тест-кейсы размещены по ссылке [тест-кейсы](https://disk.yandex.ru/i/R8k8C9NAPV2j7g)   
+
+[Тест-кейсы](https://disk.yandex.ru/i/R8k8C9NAPV2j7g)  для тестирования веб-формы регистрации Заявки на дебетовую карту. 
+
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/adfcd0a7-d0d7-417a-9527-2c31f4e32855)  
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/46145e3e-d725-4c39-a2e3-387c6ea1b050)  
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/bc3ca4ea-d4a6-46ae-a99c-9f57ee89047e)  
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/1065cab9-8f19-45c3-bbe9-afb81a7a0ffe)  
 ![image](https://github.com/OlgaF0111/Test-case/assets/123538617/ba7696a2-d4e8-4476-b0bc-daf3c5f7d00f)  
 
-Общее количество тест-кейсов на проверку функционала заявки на дебетовую карту 15, из них позитивных - 7, негативных - 8. Тест-кейсов с высоким приоритетом 7.  

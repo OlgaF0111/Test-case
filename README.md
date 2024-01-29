@@ -9,7 +9,7 @@
 
 ---
 
-### Спомощью [us case](https://github.com/OlgaF0111/Diplom/blob/main/documentation/test%20case.md)  протестировано Приложение по покупке тура через веб-сервис.   
+### С помощью [us case](https://github.com/OlgaF0111/Diplom/blob/main/documentation/test%20case.md)  протестировано Приложение по покупке тура через веб-сервис.   
 Купить тур можно двумя способами:  
 • оплата с помощью дебетовой карты  
 • выдача кредита по данным банковской карты  

@@ -9,10 +9,11 @@
 
 ---
 
-### [us case](https://github.com/OlgaF0111/Diplom/blob/main/documentation/test%20case.md)  тестирования Приложения по покупке тура через веб-сервис.   
+### Спомощью [us case](https://github.com/OlgaF0111/Diplom/blob/main/documentation/test%20case.md)  протестировано Приложение по покупке тура через веб-сервис.   
 Купить тур можно двумя способами:  
 • оплата с помощью дебетовой карты  
 • выдача кредита по данным банковской карты  
 
+![image](https://github.com/OlgaF0111/Test-case/assets/123538617/6afc23c9-e32d-4421-9a60-8fa4be0858c2)  
 
 
